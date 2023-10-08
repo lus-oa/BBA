@@ -1,5 +1,9 @@
 # BBA
 
+![image ](https://github.com/fusemen/BBA/assets/122666739/cd8a21f5-f199-4907-92db-acadb3c17b9f)
+
+![image](https://github.com/fusemen/BBA/assets/122666739/d36f94bc-b561-4a36-8f88-2b1af88a999e)
+
 As the core of streaming media services, the ABR algorithm plays a role in adjusting the video download rate on the client side,
 
 with the goal of selecting higher video rates and generating fewer playback stalling events.
